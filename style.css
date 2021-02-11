@@ -1,7 +1,7 @@
 #yellow {
     background-color: yellow;
-    width: 100%;
-    height: 100vh;
+    width: 99vw;
+    height: 97vh;
 }
 
 #red {
@@ -41,4 +41,10 @@
 
 #red, #green, #blue, #purple, #yellow {
     border: 3px solid black;
+}
+
+p {
+    font-size: 25pt;
+    line-height: 2.5rem;
+    letter-spacing: 0.2em;
 }
